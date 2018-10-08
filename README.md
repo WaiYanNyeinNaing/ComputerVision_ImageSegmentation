@@ -1,7 +1,7 @@
 # ComputerVisionBased_ImageSegmentation
 Medical Image Segmentation Using Computer Vision &amp; Image Processing
 
-![Screenshot](image_Segment.jpg)
+![Screenshot](image_Segment.png)
 
 
 # Library Installations:
