@@ -13,7 +13,7 @@ Medical Image Segmentation Using Computer Vision &amp; Image Processing
 
 # Usuage
 
-- Open JupyterNotebook - ImageSegmentation_BrainScan.ipynb
+- Open JupyterNotebook - Run_Segmentation.ipynb
 
 
 If you like this work please help me by giving me some stars.
